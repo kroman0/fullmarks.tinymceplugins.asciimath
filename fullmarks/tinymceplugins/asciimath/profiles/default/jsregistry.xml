@@ -18,6 +18,7 @@
  <!-- disable loading MathJax normally since we need to convert
       ASCIIMath to MathML before MathJax loads. see skins/tinymce_plugin_asciimath/asciimath/js/configuremath.js
     -->
+ <!--
  <javascript cacheable="True"
              compression="none"
              cookable="True"
@@ -25,4 +26,5 @@
              expression=""
              id="++resource++fullmarks.mathjax/mathjax/MathJax.js?config=default.js"
              inline="False"/>
+ -->
 </object>
